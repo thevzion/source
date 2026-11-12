@@ -1,7 +1,7 @@
 ---
 space: thevzion
 uri: thevzion/source     # the canonical address follows the repository name: objects/decisions/repository-name.md
-standard: 0.1
+standard: 0.1     # https://github.com/thevzion/standard
 models:
   - organization@0.1     # includes purpose@0.1, goals@0.1, work@0.1, loop@0.1, agreements@0.1
 adapters:
@@ -19,9 +19,10 @@ Standard 0.1 · Organization model 0.1 · candidate, untested.
 
 | Where | Role |
 |---|---|
-| this repository | **Source** for the standard, the models and this space |
+| this repository | **Source** for this space |
+| https://github.com/thevzion/standard | **Source** for the standard and the models, delivered by the project [objects/projects/standard.md](objects/projects/standard.md) |
 | the collective's workspace in Notion, for members | **Source** for day-to-day operations |
-| thevzion.com, `llms.txt`, `structure.json`, the public Notion template | **Projections** of this repository |
+| thevzion.com, `llms.txt`, `structure.json`, the public Notion template | **Projections** of these two repositories |
 | `objects/sites/` | **Pointers** to other spaces (none yet) |
 | GitHub issues and discussions, Discord | **Inbox** |
 
@@ -48,7 +49,7 @@ See [standard/access.md](https://github.com/thevzion/standard/blob/main/standard
 | [`objects/projects/`](objects/projects/), [`objects/tasks/`](objects/tasks/), [`objects/deliverables/`](objects/deliverables/) | project, task, deliverable | Work |
 | [`objects/decisions/`](objects/decisions/), [`objects/hypotheses/`](objects/hypotheses/), [`objects/questions/`](objects/questions/) | decision, hypothesis, question | Loop |
 
-Trials and checks live in [`tests/`](https://github.com/thevzion/standard/tree/main/tests/). No local types and no child spaces yet.
+Trials and checks live in the standard's [`tests/`](https://github.com/thevzion/standard/tree/main/tests). No local types and no child spaces yet.
 
 ## Provenance
 
