@@ -9,9 +9,10 @@ evidence: open
 date: 2026-11-12
 ---
 
-# Which license for this repository?
+# Which license for this repository and for thevzion/standard?
 
-None chosen yet: until one is, nobody else has the right to reuse it. Options to weigh: one license
-for the text and the models, and a different one for any code.
+None chosen yet, for this repository or for [thevzion/standard](https://github.com/thevzion/standard):
+until one is, nobody else has the right to reuse them. Options to weigh: one license for the text
+and the models, and a different one for any code.
 
 Decided by: the founder.
