@@ -11,8 +11,8 @@ date: 2026-11-12
 
 # The site
 
-A projection of this repository: generated from it, never written apart. Four pages, as levels of
-reading ([decision](../decisions/four-pages.md)):
+A projection of this repository and of [thevzion/standard](https://github.com/thevzion/standard):
+generated from them, never written apart. Four pages, as levels of reading ([decision](../decisions/four-pages.md)):
 
 | Page | What it shows |
 |---|---|
