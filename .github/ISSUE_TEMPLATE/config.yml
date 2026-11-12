@@ -1,1 +1,5 @@
 blank_issues_enabled: true
+contact_links:
+  - name: Change the standard or a model
+    url: https://github.com/thevzion/standard/issues
+    about: The standard, the models, the setup prompt and the tests live in thevzion/standard.

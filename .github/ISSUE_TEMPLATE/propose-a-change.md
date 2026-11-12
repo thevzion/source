@@ -1,15 +1,15 @@
 ---
 name: Propose a change
-about: Change an object, the standard, a model or a test. A reviewer turns it into one change, with its reason.
+about: Change an object of TheVZion's space, such as a goal, a decision or a question. A reviewer turns it into one change, with its reason.
 title: "<object>(<operation>): "
 labels: change
 ---
 
 <!-- Leave out private data: no names, no figures or excerpts you would not publish. -->
 
-### Which object or file?
+### Which object?
 
-<!-- Its path from the repository root, for example objects/goals/2.md or standard/changes.md. -->
+<!-- Its path from the repository root, for example objects/goals/2.md or objects/decisions/two-repositories.md. For the standard, a model or a test, open an issue in thevzion/standard instead. -->
 
 ### What should change?
 
