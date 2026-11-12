@@ -14,5 +14,5 @@ date: 2026-11-12
 Options: `objects/types/`, or a list in `space.md`. A local type is named by its question, and
 marked `local` and `inferred`.
 
-Settled by: [trial 09, placement](../../tests/trials/09-placement.md), where local types first
+Settled by: [trial 09, placement](https://github.com/thevzion/standard/blob/main/tests/trials/09-placement.md), where local types first
 appear.

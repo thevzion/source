@@ -14,4 +14,4 @@ date: 2026-11-12
 It would make "left to review" exact. Options: record nothing, record for the person alone, or
 record for the space.
 
-Settled by: the person's choice, then [trial 14, review](../../tests/trials/14-review.md).
+Settled by: the person's choice, then [trial 14, review](https://github.com/thevzion/standard/blob/main/tests/trials/14-review.md).

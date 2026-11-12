@@ -14,5 +14,5 @@ date: 2026-11-12
 The same objects as the standard, to prove in play, simulate and evaluate automatically. It is the
 "proven in play" tier of "Proof before promises": a rule reaches it when play shows it.
 
-It makes the Game model, for the thing made (a seed, see [`models/seeds.md`](../../models/seeds.md)).
+It makes the Game model, for the thing made (a seed, see [`models/seeds.md`](https://github.com/thevzion/standard/blob/main/models/seeds.md)).
 A space of its own, with the Game model on top of the Organization model.

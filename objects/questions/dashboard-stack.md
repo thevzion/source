@@ -15,4 +15,4 @@ It shows the real state of a space and its measures, without blocking anything. 
 interface with its logic in Rust, or a generated static page. Open: whether it only reads, or also
 lets you write, and what.
 
-Settled by: [trial 11, the dashboard](../../tests/trials/11-dashboard.md).
+Settled by: [trial 11, the dashboard](https://github.com/thevzion/standard/blob/main/tests/trials/11-dashboard.md).

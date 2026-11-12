@@ -11,17 +11,17 @@ Standard 0.1 · candidate, untested.
 
 | Path | What it is |
 |---|---|
-| [`standard/`](standard/) | the standard: the doctrine (how any intelligence behaves) and the structure (objects, links, changes, the trace, truth, access) |
-| [`models/`](models/) | the standard library: Purpose, Goals, Work, Loop, Knowledge, Agreements, Capital, and the Organization and Home models that assemble them |
+| [`standard/`](https://github.com/thevzion/standard/tree/main/standard/) | the standard: the doctrine (how any intelligence behaves) and the structure (objects, links, changes, the trace, truth, access) |
+| [`models/`](https://github.com/thevzion/standard/tree/main/models/) | the standard library: Purpose, Goals, Work, Loop, Knowledge, Agreements, Capital, and the Organization and Home models that assemble them |
 | [`space.md`](space.md), [`objects/`](objects/) | TheVZion itself, the first space on the standard: its problem, why, goals, decisions, hypotheses and open questions |
-| [`tests/`](tests/) | checks and trials, each a question with its expected answer when there is one |
-| [`setup/`](setup/) | the prompt that sets up a space with your agent |
+| [`tests/`](https://github.com/thevzion/standard/tree/main/tests/) | checks and trials, each a question with its expected answer when there is one |
+| [`setup/`](https://github.com/thevzion/standard/tree/main/setup/) | the prompt that sets up a space with your agent |
 | `git log` | the journal: one change per commit, with `Why:` and `Source:` |
 
 ## Use it with your agent
 
 1. Open a folder with any agent that reads and writes files.
-2. Paste [`setup/prompt.md`](setup/prompt.md).
+2. Paste [`setup/prompt.md`](https://github.com/thevzion/standard/blob/main/setup/prompt.md).
 3. Say what you want, in your words. The agent writes `space.md` and `objects/`, marks what it
    inferred and commits each change with its reason. You review when you choose.
 

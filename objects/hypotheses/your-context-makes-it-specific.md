@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/1.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: proposed
 evidence: hypothesis
@@ -21,8 +21,8 @@ than any organization. Candidate, not yet on the page.
   the space. Its complement is genericity, found by the swap test: replace the organization with
   another; a claim that still holds is generic.
 
-See [the measures](../../standard/measures.md).
+See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 13: genericity](../../tests/trials/13-genericity.md)
+- [Trial 13: genericity](https://github.com/thevzion/standard/blob/main/tests/trials/13-genericity.md)

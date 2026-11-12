@@ -18,5 +18,5 @@ only later, if a measure warrants it. Checks flag smells, they don't block.
 
 **Who answers.** The founder.
 
-**See.** [The doctrine](../../standard/doctrine.md), [the measures](../../standard/measures.md),
+**See.** [The doctrine](https://github.com/thevzion/standard/blob/main/standard/doctrine.md), [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md),
 [which constraints are worth it](../questions/constraints-worth-it.md).

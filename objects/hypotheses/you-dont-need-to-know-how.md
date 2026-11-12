@@ -24,4 +24,4 @@ Candidate, not yet on the page.
 
 ## Trials
 
-- [Trial 24: elevation](../../tests/trials/24-elevation.md)
+- [Trial 24: elevation](https://github.com/thevzion/standard/blob/main/tests/trials/24-elevation.md)

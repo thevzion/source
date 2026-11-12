@@ -19,6 +19,6 @@ it.
 
 **Who answers.** The founder.
 
-**See.** [The standard library](../../models/README.md),
-[Organization](../../models/organization/model.md), [Home](../../models/home/model.md),
-[Loop](../../models/loop/model.md), [Capital](../../models/capital/model.md).
+**See.** [The standard library](https://github.com/thevzion/standard/blob/main/models/README.md),
+[Organization](https://github.com/thevzion/standard/blob/main/models/organization/model.md), [Home](https://github.com/thevzion/standard/blob/main/models/home/model.md),
+[Loop](https://github.com/thevzion/standard/blob/main/models/loop/model.md), [Capital](https://github.com/thevzion/standard/blob/main/models/capital/model.md).

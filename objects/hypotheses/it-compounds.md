@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/1.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: active
 evidence: hypothesis
@@ -23,9 +23,9 @@ curve.
 ## How we'll know
 
 Five curves, read together: **reuse**, **fit** and **anchoring** go up; **corrections** and the
-person's time per intent go down. See [the measures](../../standard/measures.md).
+person's time per intent go down. See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 02: two turns, reuse](../../tests/trials/02-two-turns-reuse.md)
-- [Trial 16: learned context](../../tests/trials/16-learned-context.md)
+- [Trial 02: two turns, reuse](https://github.com/thevzion/standard/blob/main/tests/trials/02-two-turns-reuse.md)
+- [Trial 16: learned context](https://github.com/thevzion/standard/blob/main/tests/trials/16-learned-context.md)

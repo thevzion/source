@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/1.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: active
 evidence: hypothesis
@@ -22,9 +22,9 @@ every case. Compressing its output treats the format; explicit objects treat the
 - **Leverage**: the volume produced per line of human intent. High leverage with low anchoring is
   the generic document.
 
-See [the measures](../../standard/measures.md).
+See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 13: genericity](../../tests/trials/13-genericity.md)
-- [Trial 16: learned context](../../tests/trials/16-learned-context.md)
+- [Trial 13: genericity](https://github.com/thevzion/standard/blob/main/tests/trials/13-genericity.md)
+- [Trial 16: learned context](https://github.com/thevzion/standard/blob/main/tests/trials/16-learned-context.md)

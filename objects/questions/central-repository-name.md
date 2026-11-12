@@ -12,6 +12,6 @@ date: 2026-11-12
 # What do we call a person's central repository?
 
 The space of an organization of one: a person's life, the root of their tree. Options: "home"
-([the Home model](../../models/home/model.md)), or another name.
+([the Home model](https://github.com/thevzion/standard/blob/main/models/home/model.md)), or another name.
 
 Settled by: a decision, once people outside the team have used it.

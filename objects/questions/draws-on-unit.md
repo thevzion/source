@@ -13,5 +13,5 @@ date: 2026-11-12
 
 Options: the object (often fine enough, since it answers one question), or the claim.
 
-Settled by: [trial 15](../../tests/trials/15-trace.md), comparing the anchoring drawn from
-`draws on` with the labels of [trial 13](../../tests/trials/13-genericity.md).
+Settled by: [trial 15](https://github.com/thevzion/standard/blob/main/tests/trials/15-trace.md), comparing the anchoring drawn from
+`draws on` with the labels of [trial 13](https://github.com/thevzion/standard/blob/main/tests/trials/13-genericity.md).

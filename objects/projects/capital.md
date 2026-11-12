@@ -11,7 +11,7 @@ date: 2026-11-12
 
 # The Capital
 
-Makes the Capital model ([`models/capital/`](../../models/capital/model.md)): what a person can do
+Makes the Capital model ([`models/capital/`](https://github.com/thevzion/standard/blob/main/models/capital/model.md)): what a person can do
 now that they couldn't before.
 
 - Five branches: Clarity (want), Expression (say), Discernment (see), Judgment (choose), Learning

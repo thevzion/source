@@ -25,5 +25,5 @@ starts from. "One human who wants. As many agents as it takes."
 
 **Who answers.** The founder.
 
-**See.** [The Home model](../../models/home/model.md),
-[the Organization model](../../models/organization/model.md), [vision](../vision.md).
+**See.** [The Home model](https://github.com/thevzion/standard/blob/main/models/home/model.md),
+[the Organization model](https://github.com/thevzion/standard/blob/main/models/organization/model.md), [vision](../vision.md).

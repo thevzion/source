@@ -15,4 +15,4 @@ The watch asks continuously, for example "does the recent work still serve this 
 a question, never a verdict, and a person's watch belongs to that person. Open: which questions,
 how often, and how the person chooses what to be told.
 
-Settled by: [trial 22, the watch](../../tests/trials/22-watch.md).
+Settled by: [trial 22, the watch](https://github.com/thevzion/standard/blob/main/tests/trials/22-watch.md).

@@ -1,12 +1,12 @@
 # AGENTS.md
 
-A projection of the doctrine ([standard/doctrine.md](standard/doctrine.md)) and of this space's
+A projection of the doctrine ([standard/doctrine.md](https://github.com/thevzion/standard/blob/main/standard/doctrine.md)) and of this space's
 mandates. When they differ, the source wins: correct it there.
 
 ## Read first
 
 1. [space.md](space.md): what this space declares (standard, models, truth, access).
-2. [standard/doctrine.md](standard/doctrine.md): how any intelligence behaves here.
+2. [standard/doctrine.md](https://github.com/thevzion/standard/blob/main/standard/doctrine.md): how any intelligence behaves here.
 3. The model of the type you write: `models/<id>/model.md`.
 
 ## The doctrine
@@ -41,7 +41,7 @@ private names, no links to private workspaces, in objects, commits or issues.
 
 ## Writing
 
-- One object per question, with its header ([standard/structure.md](standard/structure.md)).
+- One object per question, with its header ([standard/structure.md](https://github.com/thevzion/standard/blob/main/standard/structure.md)).
   Links are paths from the repository root.
 - Reuse before you create: revise an object or add a link before adding a type or an object.
 - One change per commit:

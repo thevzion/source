@@ -15,4 +15,4 @@ What the trace makes readable from one space to another, and outside content tha
 instructions for the agent (the trace marks it as sourced). Options: visibility per object or per
 type, encryption at rest, a local AI model for what is sensitive.
 
-Settled by: [trial 19, exposure](../../tests/trials/19-exposure.md).
+Settled by: [trial 19, exposure](https://github.com/thevzion/standard/blob/main/tests/trials/19-exposure.md).

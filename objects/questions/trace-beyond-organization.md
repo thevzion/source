@@ -14,4 +14,4 @@ date: 2026-11-12
 Open: mappings to PROV, schema.org and C2PA; a property for what was inferred on a web page; and
 whom to talk to (the W3C, C2PA), the day a measure warrants it.
 
-Settled by: [trial 17, projection to PROV](../../tests/trials/17-projection-to-prov.md).
+Settled by: [trial 17, projection to PROV](https://github.com/thevzion/standard/blob/main/tests/trials/17-projection-to-prov.md).

@@ -14,5 +14,5 @@ date: 2026-11-12
 Open: its name (anchoring, specificity, or genericity rate), its unit (the claim, the sentence, the
 object), and how reliable an agent's labels are.
 
-Settled by: [trial 13, genericity](../../tests/trials/13-genericity.md), with the labeling fixed
+Settled by: [trial 13, genericity](https://github.com/thevzion/standard/blob/main/tests/trials/13-genericity.md), with the labeling fixed
 before the trial and a sample checked by the person.

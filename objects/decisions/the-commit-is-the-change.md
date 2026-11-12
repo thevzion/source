@@ -19,6 +19,6 @@ that drifts.
 
 **Who answers.** The founder.
 
-**See.** [Changes](../../standard/changes.md),
-[trial 07](../../tests/trials/07-reduced-tree.md),
+**See.** [Changes](https://github.com/thevzion/standard/blob/main/standard/changes.md),
+[trial 07](https://github.com/thevzion/standard/blob/main/tests/trials/07-reduced-tree.md),
 [the name of the set](../questions/changes-set-name.md).

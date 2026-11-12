@@ -18,4 +18,4 @@ or tool names on the page or in the standard.
 
 **Who answers.** The founder.
 
-**See.** [The standard](../../standard/README.md).
+**See.** [The standard](https://github.com/thevzion/standard/blob/main/standard/README.md).

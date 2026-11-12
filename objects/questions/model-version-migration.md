@@ -13,7 +13,7 @@ date: 2026-11-12
 
 Migration debt counts the objects on an outdated model version. Open: who proposes the migration,
 how it applies, and how links keep resolving. One case is fixed in
-[trial 09](../../tests/trials/09-placement.md): the agent proposes, and applies nothing before
+[trial 09](https://github.com/thevzion/standard/blob/main/tests/trials/09-placement.md): the agent proposes, and applies nothing before
 agreement.
 
 Settled by: the first model version change, measured by migration debt.

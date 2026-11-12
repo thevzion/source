@@ -19,4 +19,4 @@ a person and an agent, and nobody outside has attacked it yet.
 
 **Who answers.** The founder.
 
-**See.** [Trial 18, adversarial review](../../tests/trials/18-adversarial-review.md).
+**See.** [Trial 18, adversarial review](https://github.com/thevzion/standard/blob/main/tests/trials/18-adversarial-review.md).

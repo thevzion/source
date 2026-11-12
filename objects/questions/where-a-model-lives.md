@@ -13,4 +13,4 @@ date: 2026-11-12
 
 Options: by URI and version, either copied into the space or read online.
 
-Settled by: [trial 08, a second model](../../tests/trials/08-second-model.md), then a decision.
+Settled by: [trial 08, a second model](https://github.com/thevzion/standard/blob/main/tests/trials/08-second-model.md), then a decision.

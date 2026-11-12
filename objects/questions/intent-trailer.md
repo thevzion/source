@@ -12,7 +12,7 @@ date: 2026-11-12
 # Do commits carry an `Intent:` trailer?
 
 It would say which intent a change serves. The upkeep measure needs it to tell changes that serve
-the structure from changes that serve an intent ([the measures](../../standard/measures.md)).
+the structure from changes that serve an intent ([the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md)).
 
-Settled by: [trial 07, the reduced tree](../../tests/trials/07-reduced-tree.md), and whether
+Settled by: [trial 07, the reduced tree](https://github.com/thevzion/standard/blob/main/tests/trials/07-reduced-tree.md), and whether
 upkeep can be computed without it.

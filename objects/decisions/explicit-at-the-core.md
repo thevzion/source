@@ -20,4 +20,4 @@ which is still read whole.
 
 **Who answers.** The founder.
 
-**See.** [The structure](../../standard/structure.md), [the doctrine](../../standard/doctrine.md).
+**See.** [The structure](https://github.com/thevzion/standard/blob/main/standard/structure.md), [the doctrine](https://github.com/thevzion/standard/blob/main/standard/doctrine.md).

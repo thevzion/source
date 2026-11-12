@@ -19,6 +19,6 @@ where a mistake can't be corrected precisely, or reaches someone else.
 
 **Who answers.** The founder.
 
-**See.** [The doctrine](../../standard/doctrine.md), [access](../../standard/access.md),
-[trial 10](../../tests/trials/10-commit-or-ask.md),
+**See.** [The doctrine](https://github.com/thevzion/standard/blob/main/standard/doctrine.md), [access](https://github.com/thevzion/standard/blob/main/standard/access.md),
+[trial 10](https://github.com/thevzion/standard/blob/main/tests/trials/10-commit-or-ask.md),
 [you stop babysitting your agent](../hypotheses/you-stop-babysitting-your-agent.md).

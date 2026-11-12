@@ -11,7 +11,7 @@ date: 2026-11-12
 
 # Where does `read` live?
 
-Options: a git note, a `Read:` trailer, or a separate file ([the trace](../../standard/trace.md)).
+Options: a git note, a `Read:` trailer, or a separate file ([the trace](https://github.com/thevzion/standard/blob/main/standard/trace.md)).
 
-Settled by: [trial 15, the trace](../../tests/trials/15-trace.md), where the adapter records what
+Settled by: [trial 15, the trace](https://github.com/thevzion/standard/blob/main/tests/trials/15-trace.md), where the adapter records what
 the agent reads.

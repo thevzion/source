@@ -34,11 +34,11 @@ Candidate, untested: each row holds until its trial says otherwise.
 
 | What you live | What changes it | How we'll know |
 |---|---|---|
-| **You repeat yourself**: every session, every tool starts from zero | the space keeps what was said, and any agent reads it | context, reuse; [trial 03](../tests/trials/03-resume-with-another-agent.md) |
-| **You babysit**: you approve each step, because you can't see what the agent did, or why | it commits, marks what it inferred, and you correct precisely | gates, accuracy; [trial 10](../tests/trials/10-commit-or-ask.md) |
-| **You review everything**: the agent writes more than you read | small objects; you read what was inferred first | left to review; [trial 14](../tests/trials/14-review.md) |
-| **It doesn't sound like you**: it's generic | explicit objects, and the trace | anchoring; [trial 13](../tests/trials/13-genericity.md) |
-| **You no longer know why**: decisions stayed in chats and meetings | every change has its reason, every object what it draws on | the trace; [trial 15](../tests/trials/15-trace.md) |
-| **You start over with every tool**: your context lives at a provider | the space is yours, and tools are adapters to it | [trial 03](../tests/trials/03-resume-with-another-agent.md), with another provider |
-| **You don't know if it helps**: nothing says what AI costs you and brings you | measures on the objects and the changes | balance, yield ([measures](../standard/measures.md)) |
-| **With others, you say it all again**: to a partner, to the team | shared models, pointers, and private by default | [trial 05](../tests/trials/05-interoperability.md) |
+| **You repeat yourself**: every session, every tool starts from zero | the space keeps what was said, and any agent reads it | context, reuse; [trial 03](https://github.com/thevzion/standard/blob/main/tests/trials/03-resume-with-another-agent.md) |
+| **You babysit**: you approve each step, because you can't see what the agent did, or why | it commits, marks what it inferred, and you correct precisely | gates, accuracy; [trial 10](https://github.com/thevzion/standard/blob/main/tests/trials/10-commit-or-ask.md) |
+| **You review everything**: the agent writes more than you read | small objects; you read what was inferred first | left to review; [trial 14](https://github.com/thevzion/standard/blob/main/tests/trials/14-review.md) |
+| **It doesn't sound like you**: it's generic | explicit objects, and the trace | anchoring; [trial 13](https://github.com/thevzion/standard/blob/main/tests/trials/13-genericity.md) |
+| **You no longer know why**: decisions stayed in chats and meetings | every change has its reason, every object what it draws on | the trace; [trial 15](https://github.com/thevzion/standard/blob/main/tests/trials/15-trace.md) |
+| **You start over with every tool**: your context lives at a provider | the space is yours, and tools are adapters to it | [trial 03](https://github.com/thevzion/standard/blob/main/tests/trials/03-resume-with-another-agent.md), with another provider |
+| **You don't know if it helps**: nothing says what AI costs you and brings you | measures on the objects and the changes | balance, yield ([measures](https://github.com/thevzion/standard/blob/main/standard/measures.md)) |
+| **With others, you say it all again**: to a partner, to the team | shared models, pointers, and private by default | [trial 05](https://github.com/thevzion/standard/blob/main/tests/trials/05-interoperability.md) |

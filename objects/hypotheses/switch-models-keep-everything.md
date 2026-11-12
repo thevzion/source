@@ -22,4 +22,4 @@ is what remains. Candidate, not yet on the page.
 
 ## Trials
 
-- [Trial 03: resume with another agent](../../tests/trials/03-resume-with-another-agent.md)
+- [Trial 03: resume with another agent](https://github.com/thevzion/standard/blob/main/tests/trials/03-resume-with-another-agent.md)

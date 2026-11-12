@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/1.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: proposed
 evidence: hypothesis
@@ -22,9 +22,9 @@ page.
 - **Context**: the share of what was read that is drawn on, and what is drawn on without being
   read.
 
-See [the measures](../../standard/measures.md).
+See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 15: the trace](../../tests/trials/15-trace.md)
-- [Trial 17: projection to PROV](../../tests/trials/17-projection-to-prov.md)
+- [Trial 15: the trace](https://github.com/thevzion/standard/blob/main/tests/trials/15-trace.md)
+- [Trial 17: projection to PROV](https://github.com/thevzion/standard/blob/main/tests/trials/17-projection-to-prov.md)

@@ -24,5 +24,5 @@ people want."
 
 **Who answers.** The founder.
 
-**See.** [The doctrine](../../standard/doctrine.md), [mission](../mission.md),
+**See.** [The doctrine](https://github.com/thevzion/standard/blob/main/standard/doctrine.md), [mission](../mission.md),
 [vision](../vision.md).

@@ -18,6 +18,6 @@ vision, goal, project, task, decision), where it lives, and the thesis.
 
 **Who answers.** The founder.
 
-**See.** [The Organization model](../../models/organization/model.md),
+**See.** [The Organization model](https://github.com/thevzion/standard/blob/main/models/organization/model.md),
 [anyone can start with seven types](../hypotheses/anyone-can-start-with-seven-types.md),
 [it compounds](../hypotheses/it-compounds.md).

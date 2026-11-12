@@ -14,4 +14,4 @@ date: 2026-11-12
 Three cases are named as proposals: what comes from elsewhere, what is broad, and what commits
 other people. Everything else is accepted by default, and corrected afterwards. Open: other cases.
 
-Settled by: the gates measure and [trial 10, commit or ask](../../tests/trials/10-commit-or-ask.md).
+Settled by: the gates measure and [trial 10, commit or ask](https://github.com/thevzion/standard/blob/main/tests/trials/10-commit-or-ask.md).

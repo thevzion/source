@@ -22,6 +22,6 @@ loop rewrites the source with what each turn learns. Candidate, not yet on the p
 
 ## Trials
 
-- [Trial 00: first run](../../tests/trials/00-first-run.md)
-- [Trial 09: placement](../../tests/trials/09-placement.md)
-- [Trial 02: two turns, reuse](../../tests/trials/02-two-turns-reuse.md)
+- [Trial 00: first run](https://github.com/thevzion/standard/blob/main/tests/trials/00-first-run.md)
+- [Trial 09: placement](https://github.com/thevzion/standard/blob/main/tests/trials/09-placement.md)
+- [Trial 02: two turns, reuse](https://github.com/thevzion/standard/blob/main/tests/trials/02-two-turns-reuse.md)

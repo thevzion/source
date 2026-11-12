@@ -20,5 +20,5 @@ this cost is judged small against the gains.
 
 **Who answers.** The founder.
 
-**See.** [The measures](../../standard/measures.md) (balance, upkeep),
+**See.** [The measures](https://github.com/thevzion/standard/blob/main/standard/measures.md) (balance, upkeep),
 [making it explicit adds no work](../hypotheses/adds-no-work.md).

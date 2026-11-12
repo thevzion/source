@@ -12,7 +12,7 @@ date: 2026-11-12
 # The toolchain
 
 Later. A CLI for people and an MCP server for agents, both hosting the adapters
-([`standard/adapters.md`](../../standard/adapters.md)).
+([`standard/adapters.md`](https://github.com/thevzion/standard/blob/main/standard/adapters.md)).
 
 Optional: a folder, git and any agent that reads and writes files are enough to use the standard.
 

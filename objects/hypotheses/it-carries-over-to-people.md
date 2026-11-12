@@ -22,5 +22,5 @@ through shared models and pointers, and nothing private leaves by default.
 
 ## Trials
 
-- [Trial 05: interoperability](../../tests/trials/05-interoperability.md)
-- [Trial 03: resume with another agent](../../tests/trials/03-resume-with-another-agent.md)
+- [Trial 05: interoperability](https://github.com/thevzion/standard/blob/main/tests/trials/05-interoperability.md)
+- [Trial 03: resume with another agent](https://github.com/thevzion/standard/blob/main/tests/trials/03-resume-with-another-agent.md)

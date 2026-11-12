@@ -19,4 +19,4 @@ human intent. Yield says what comes out useful for what goes in.
 
 **Who answers.** The founder.
 
-**See.** [The measures](../../standard/measures.md) (yield, anchoring, leverage, fit).
+**See.** [The measures](https://github.com/thevzion/standard/blob/main/standard/measures.md) (yield, anchoring, leverage, fit).

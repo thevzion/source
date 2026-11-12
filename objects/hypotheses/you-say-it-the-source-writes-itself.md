@@ -22,5 +22,5 @@ source, and the person corrects when they choose. Candidate, not yet on the page
 
 ## Trials
 
-- [Trial 09: placement](../../tests/trials/09-placement.md)
-- [Trial 21: voice](../../tests/trials/21-voice.md)
+- [Trial 09: placement](https://github.com/thevzion/standard/blob/main/tests/trials/09-placement.md)
+- [Trial 21: voice](https://github.com/thevzion/standard/blob/main/tests/trials/21-voice.md)

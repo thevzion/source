@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/3.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: active
 evidence: hypothesis
@@ -22,9 +22,9 @@ use.
   over weeks; private, with the person's consent, for that person alone.
 - On the second turn, the person spots alone what was caught on the first.
 
-See [the measures](../../standard/measures.md).
+See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 24: elevation](../../tests/trials/24-elevation.md)
-- [Trial 06: the person spots catches](../../tests/trials/06-person-spots-catches.md)
+- [Trial 24: elevation](https://github.com/thevzion/standard/blob/main/tests/trials/24-elevation.md)
+- [Trial 06: the person spots catches](https://github.com/thevzion/standard/blob/main/tests/trials/06-person-spots-catches.md)

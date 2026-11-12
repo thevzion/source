@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/1.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: proposed
 evidence: hypothesis
@@ -21,8 +21,8 @@ inferred first, in small units, not the whole thing. Candidate, not yet on the p
 - The person's time to find what was inferred, and what is wrong: one long document versus
   objects and commits.
 
-See [the measures](../../standard/measures.md).
+See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 14: review](../../tests/trials/14-review.md)
+- [Trial 14: review](https://github.com/thevzion/standard/blob/main/tests/trials/14-review.md)

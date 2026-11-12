@@ -19,5 +19,5 @@ model can be taken on its own.
 
 **Who answers.** The founder.
 
-**See.** [The structure](../../standard/structure.md), [the standard library](../../models/README.md),
-[the Organization model](../../models/organization/model.md).
+**See.** [The structure](https://github.com/thevzion/standard/blob/main/standard/structure.md), [the standard library](https://github.com/thevzion/standard/blob/main/models/README.md),
+[the Organization model](https://github.com/thevzion/standard/blob/main/models/organization/model.md).

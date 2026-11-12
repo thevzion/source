@@ -3,7 +3,7 @@ type: hypothesis
 model: loop@0.1
 question: What do we think is true, and how will we know?
 serves: objects/goals/1.md
-draws-on: [standard/measures.md]
+draws-on: [https://github.com/thevzion/standard/blob/main/standard/measures.md]
 source: inferred
 lifecycle: active
 evidence: hypothesis
@@ -20,8 +20,8 @@ review when you choose; you stop approving each step.
 - **Gates**: approval requests per session, and the gaps between the written agreement and real
   access.
 
-See [the measures](../../standard/measures.md).
+See [the measures](https://github.com/thevzion/standard/blob/main/standard/measures.md).
 
 ## Trials
 
-- [Trial 10: commit or ask](../../tests/trials/10-commit-or-ask.md)
+- [Trial 10: commit or ask](https://github.com/thevzion/standard/blob/main/tests/trials/10-commit-or-ask.md)

@@ -14,5 +14,5 @@ date: 2026-11-12
 Known: the trace keeps the address, and access stays that of the other space. Open: what the
 reading space keeps, and what the other space learns.
 
-Settled by: [trial 19, exposure](../../tests/trials/19-exposure.md), and the
+Settled by: [trial 19, exposure](https://github.com/thevzion/standard/blob/main/tests/trials/19-exposure.md), and the
 [privacy boundary](privacy-boundary.md).

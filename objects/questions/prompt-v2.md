@@ -14,7 +14,7 @@ date: 2026-11-12
 The first prompt and the first trials wrote `org/<type>.md`. A v2 follows the reduced tree: `org/`
 becomes `objects/`, `inbox/` becomes proposed changes, `sites.md` becomes `objects/sites/`,
 `organization.md` becomes `space.md`, `orgs/` becomes `spaces/`.
-[`setup/prompt.md`](../../setup/prompt.md) is a first answer, untested.
+[`setup/prompt.md`](https://github.com/thevzion/standard/blob/main/setup/prompt.md) is a first answer, untested.
 
-Settled by: [trial 00, first run](../../tests/trials/00-first-run.md) and
-[trial 03, another agent](../../tests/trials/03-resume-with-another-agent.md).
+Settled by: [trial 00, first run](https://github.com/thevzion/standard/blob/main/tests/trials/00-first-run.md) and
+[trial 03, another agent](https://github.com/thevzion/standard/blob/main/tests/trials/03-resume-with-another-agent.md).

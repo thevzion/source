@@ -26,7 +26,7 @@ Standard 0.1 · Organization model 0.1 · candidate, untested.
 | GitHub issues and discussions, Discord | **Inbox** |
 
 Write at the source, read everywhere. A proposal becomes true only by a decision. See
-[standard/truth.md](standard/truth.md).
+[standard/truth.md](https://github.com/thevzion/standard/blob/main/standard/truth.md).
 
 ## Access
 
@@ -37,7 +37,7 @@ Write at the source, read everywhere. A proposal becomes true only by a decision
 | decide | the maintainers: a decision lands as a commit on `main` |
 
 Private by default, shared by pointer. A member's home, vision and capital never live here.
-See [standard/access.md](standard/access.md).
+See [standard/access.md](https://github.com/thevzion/standard/blob/main/standard/access.md).
 
 ## Objects
 
@@ -48,7 +48,7 @@ See [standard/access.md](standard/access.md).
 | [`objects/projects/`](objects/projects/), [`objects/tasks/`](objects/tasks/), [`objects/deliverables/`](objects/deliverables/) | project, task, deliverable | Work |
 | [`objects/decisions/`](objects/decisions/), [`objects/hypotheses/`](objects/hypotheses/), [`objects/questions/`](objects/questions/) | decision, hypothesis, question | Loop |
 
-Trials and checks live in [`tests/`](tests/). No local types and no child spaces yet.
+Trials and checks live in [`tests/`](https://github.com/thevzion/standard/tree/main/tests/). No local types and no child spaces yet.
 
 ## Provenance
 
@@ -57,4 +57,4 @@ object per question. An agent wrote them. `source: from-me` marks only the decis
 wordings the founder recorded; everything else is `source: inferred`, to review first.
 
 Each change is a commit: `<object>(<operation>): …` with `Why:` and `Source:`
-([standard/changes.md](standard/changes.md)).
+([standard/changes.md](https://github.com/thevzion/standard/blob/main/standard/changes.md)).
