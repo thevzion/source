@@ -9,7 +9,7 @@ evidence: open
 date: 2026-11-12
 ---
 
-# The standard
+# The Standard
 
 The doctrine (how any intelligence behaves) and the structure (objects, links, changes, the trace,
 truth, access), kept in [`standard/`](https://github.com/thevzion/standard/blob/main/standard/README.md).

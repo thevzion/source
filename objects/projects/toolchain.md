@@ -9,7 +9,7 @@ evidence: open
 date: 2026-11-12
 ---
 
-# The toolchain
+# The Toolchain
 
 Later. A CLI for people and an MCP server for agents, both hosting the adapters
 ([`standard/adapters.md`](https://github.com/thevzion/standard/blob/main/standard/adapters.md)).

@@ -9,8 +9,9 @@ evidence: open
 date: 2026-11-12
 ---
 
-# The game
+# The Backlog
 
+The game, in its own repository: [thevzion/the-backlog](https://github.com/thevzion/the-backlog).
 The same objects as the standard, to prove in play, simulate and evaluate automatically. It is the
 "proven in play" tier of "Proof before promises": a rule reaches it when play shows it.
 
