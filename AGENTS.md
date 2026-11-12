@@ -1,13 +1,16 @@
 # AGENTS.md
 
-A projection of the doctrine ([standard/doctrine.md](https://github.com/thevzion/standard/blob/main/standard/doctrine.md)) and of this space's
+A projection of the doctrine ([doctrine](https://github.com/thevzion/standard/blob/main/standard/doctrine.md)) and of this space's
 mandates. When they differ, the source wins: correct it there.
 
 ## Read first
 
 1. [space.md](space.md): what this space declares (standard, models, truth, access).
-2. [standard/doctrine.md](https://github.com/thevzion/standard/blob/main/standard/doctrine.md): how any intelligence behaves here.
-3. The model of the type you write: `models/<id>/model.md`.
+2. The standard, at https://github.com/thevzion/standard: [the doctrine](https://github.com/thevzion/standard/blob/main/standard/doctrine.md),
+   how any intelligence behaves here, and [the structure](https://github.com/thevzion/standard/blob/main/standard/structure.md),
+   how objects, links and changes are written.
+3. The model of the type you write: `models/<id>/model.md` in https://github.com/thevzion/standard,
+   for example [the Organization model](https://github.com/thevzion/standard/blob/main/models/organization/model.md).
 
 ## The doctrine
 
@@ -33,8 +36,11 @@ Make it explicit.
 
 | Working for | You do, then say what you wrote | You propose (a branch or a pull request) | You never |
 |---|---|---|---|
-| a maintainer | add, revise, link and correct objects, marked `source: inferred` | changes to `standard/` or `models/` (others conform to them), migrations, anything that comes from elsewhere | decide what TheVZion wants; push, publish or post |
+| a maintainer | add, revise, link and correct objects, marked `source: inferred` | changes to the standard or the models, in [thevzion/standard](https://github.com/thevzion/standard) (others conform to them), migrations, anything that comes from elsewhere | decide what TheVZion wants; push, publish or post |
 | a contributor | | everything: your fork, then a pull request or an issue | the same |
+
+Decisions about the standard are TheVZion's: they are recorded here, in
+[`objects/decisions/`](objects/decisions/), then land in thevzion/standard as a commit.
 
 This repository is public. Exposure is where the gates come first: no personal data, no
 private names, no links to private workspaces, in objects, commits or issues.
@@ -42,7 +48,8 @@ private names, no links to private workspaces, in objects, commits or issues.
 ## Writing
 
 - One object per question, with its header ([standard/structure.md](https://github.com/thevzion/standard/blob/main/standard/structure.md)).
-  Links are paths from the repository root.
+  Links are paths from the repository root. A link to the standard or a model is a full URL
+  (`https://github.com/thevzion/standard/...`).
 - Reuse before you create: revise an object or add a link before adding a type or an object.
 - One change per commit:
 
