@@ -3,23 +3,23 @@ type: decision
 model: loop@0.1
 question: What did we choose, why, and who answers for it?
 serves: objects/goals/1.md
-source: inferred
+source: from-me
 lifecycle: active
 evidence: by-construction
-date: 2026-11-12
+date: 2026-11-13
 ---
 
-# Project names take capitals
+# Project names are plain nouns
 
-**Decision.** A project's name is a proper name and takes capitals: The Standard, The Backlog,
-The Capital, The Toolchain. Ordinary nouns stay lowercase: a source, a space, a standard, the site.
+**Decision.** A project is named by what it is, with a plain noun in sentence case: the standard,
+the toolchain, the site. In running text they stay lowercase. A work's title keeps its capitals,
+like a book's: The Backlog. A model's name stays a proper name: Capital, Organization, Home.
 
-**Why.** The names were mixed: some projects had capitals and others did not. The capital marks a
-project, the lowercase an ordinary thing or an instance. The game project takes its title, The
-Backlog, because "The Game" alone names nothing.
+**Why.** Plain nouns compose into sentences that are also gestures: "give the standard to your
+agent", "point your agent at the source". Brand capitals break those sentences. This replaces the
+earlier choice of capitals for every project name.
 
-**Who answers.** The founder. He asked for one rule; capitals were the recommended choice, which he
-approved in passing, so it stays inferred until he confirms it.
+**Who answers.** The founder, who approved lowercase on 13 November 2026.
 
-**See.** [The Standard](../projects/standard.md), [The Backlog](../projects/game.md),
-[The Toolchain](../projects/toolchain.md).
+**See.** [The standard](../projects/standard.md), [The Backlog](../projects/game.md),
+[The toolchain](../projects/toolchain.md).
