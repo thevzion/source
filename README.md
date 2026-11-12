@@ -1,44 +1,36 @@
-# TheVZion
+# TheVZion's source
 
-**Your intent is the source. Intelligence runs it.**
+TheVZion, written on [the standard](https://github.com/thevzion/standard): what it wants, why,
+and how it will know, as small objects that any agent can read, every change with its reason.
 
-Make your organization executable: what you want, why, and how you'll know, written as small
-objects that any agent can read, act on and keep up to date, every change with its reason.
+The organization that writes the standard, and runs on it first.
 
-Standard 0.1 · candidate, untested.
+Standard 0.1 · Organization model 0.1 · candidate, untested.
 
 ## What is here
 
 | Path | What it is |
 |---|---|
-| [`standard/`](https://github.com/thevzion/standard/tree/main/standard/) | the standard: the doctrine (how any intelligence behaves) and the structure (objects, links, changes, the trace, truth, access) |
-| [`models/`](https://github.com/thevzion/standard/tree/main/models/) | the standard library: Purpose, Goals, Work, Loop, Knowledge, Agreements, Capital, and the Organization and Home models that assemble them |
-| [`space.md`](space.md), [`objects/`](objects/) | TheVZion itself, the first space on the standard: its problem, why, goals, decisions, hypotheses and open questions |
-| [`tests/`](https://github.com/thevzion/standard/tree/main/tests/) | checks and trials, each a question with its expected answer when there is one |
-| [`setup/`](https://github.com/thevzion/standard/tree/main/setup/) | the prompt that sets up a space with your agent |
+| [`space.md`](space.md) | what this space declares: the standard and the models it follows, truth, access |
+| [`objects/`](objects/) | TheVZion itself, one object per question: its problem, why, vision, goals, projects, decisions, hypotheses and open questions |
 | `git log` | the journal: one change per commit, with `Why:` and `Source:` |
 
-## Use it with your agent
+## Where to start
 
-1. Open a folder with any agent that reads and writes files.
-2. Paste [`setup/prompt.md`](https://github.com/thevzion/standard/blob/main/setup/prompt.md).
-3. Say what you want, in your words. The agent writes `space.md` and `objects/`, marks what it
-   inferred and commits each change with its reason. You review when you choose.
-
-Seven questions. One folder. Then it compounds.
+1. [`objects/vision.md`](objects/vision.md): what the world looks like if we succeed.
+2. [`objects/goals/`](objects/goals/): what we want now, and how we will know.
+3. [`objects/questions/`](objects/questions/): what we are still asking.
 
 To have an agent read this space: point it at [`AGENTS.md`](AGENTS.md).
 
-## Contribute
+## Propose a change
 
-Everything here is a candidate. What didn't fit is the most useful thing you can send.
-Open an issue and pick a template:
+What didn't fit is the most useful thing you can send.
 
-| Template | When |
+| For | Where |
 |---|---|
-| [Propose a change](.github/ISSUE_TEMPLATE/propose-a-change.md) | an object, a model or the standard should say something else |
-| [Propose a type or a model](.github/ISSUE_TEMPLATE/propose-a-type-or-model.md) | a question no installed type asks |
-| [Report an ambiguous question](.github/ISSUE_TEMPLATE/ambiguous-question.md) | a type's question reads two ways |
+| an object of this space: a goal, a decision, a question | an issue here, with the template [Propose a change](.github/ISSUE_TEMPLATE/propose-a-change.md) |
+| the standard, a model or a test | [the standard's issues](https://github.com/thevzion/standard/issues) |
 
 Issues are the inbox: a proposal becomes true only by a decision, written as a commit.
 
