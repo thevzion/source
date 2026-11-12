@@ -1,6 +1,6 @@
 ---
 space: thevzion
-uri: thevzion            # the canonical address follows the repository name: objects/questions/repository-name.md
+uri: thevzion/source     # the canonical address follows the repository name: objects/decisions/repository-name.md
 standard: 0.1
 models:
   - organization@0.1     # includes purpose@0.1, goals@0.1, work@0.1, loop@0.1, agreements@0.1

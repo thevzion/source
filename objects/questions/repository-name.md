@@ -4,8 +4,8 @@ model: loop@0.1
 question: What are we still asking?
 serves: objects/goals/1.md
 source: inferred
-lifecycle: active
-evidence: open
+lifecycle: done
+evidence: by-construction
 date: 2026-11-12
 ---
 
@@ -13,4 +13,4 @@ date: 2026-11-12
 
 The canonical address follows the repository name ([space.md](../../space.md)).
 
-To confirm before publication.
+Answered: the repository is `thevzion/source` ([decision](../decisions/repository-name.md)).
