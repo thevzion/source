@@ -4,7 +4,7 @@ model: loop@0.1
 question: What did we choose, why, and who answers for it?
 serves: objects/deliverables/site.md
 source: from-me
-lifecycle: active
+lifecycle: dropped
 evidence: by-construction
 date: 2026-11-12
 ---
@@ -18,4 +18,4 @@ the standard give everything, Progress shows the state and the history.
 
 **Who answers.** The founder.
 
-**See.** [The site](../deliverables/site.md).
+**See.** [The site](../deliverables/site.md). Replaced by [one page](one-page.md).
