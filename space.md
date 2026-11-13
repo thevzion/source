@@ -48,8 +48,9 @@ See [standard/access.md](https://github.com/thevzion/standard/blob/main/standard
 | [`objects/goals/`](objects/goals/) | goal | Goals |
 | [`objects/projects/`](objects/projects/), [`objects/tasks/`](objects/tasks/), [`objects/deliverables/`](objects/deliverables/) | project, task, deliverable | Work |
 | [`objects/decisions/`](objects/decisions/), [`objects/hypotheses/`](objects/hypotheses/), [`objects/questions/`](objects/questions/) | decision, hypothesis, question | Loop |
+| [`objects/scenarios/`](objects/scenarios/) | scenario | local: [`objects/types/scenario.md`](objects/types/scenario.md) |
 
-Trials and checks live in the standard's [`tests/`](https://github.com/thevzion/standard/tree/main/tests). No local types and no child spaces yet.
+Trials and checks live in the standard's [`tests/`](https://github.com/thevzion/standard/tree/main/tests). One local type, scenario. No child spaces yet.
 
 ## Provenance
 
