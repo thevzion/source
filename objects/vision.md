@@ -2,7 +2,7 @@
 type: vision
 model: purpose@0.1
 question: What does the world look like if we succeed?
-serves: objects/mission.md
+serves: objects/why.md
 draws-on: [objects/decisions/the-invariant.md, objects/decisions/organization-of-one.md]
 source: inferred
 lifecycle: active
