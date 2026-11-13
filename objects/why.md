@@ -8,7 +8,7 @@ evidence: hypothesis
 date: 2026-11-12
 ---
 
-# Explicit was always better. Now it's also cheaper.
+# Explicit was always better. Now it's also cheaper. Tomorrow, it's what everything runs on.
 
 Making things explicit was always the right way to work ("Explicit is better than implicit", the
 Zen of Python). But the cost fell on humans: writing, keeping up to date, linking. Documents died,
@@ -17,6 +17,11 @@ and the semantic web failed because humans had to write the links.
 Agents move the cost: intelligence writes, links and keeps up to date. Explicit becomes the
 cheapest path. And since each explicit object makes the next turn easier, it compounds, at no
 extra human cost.
+
+Tomorrow, whatever executes, software agents now and robots later, runs on what people want. A
+more capable executor makes the source worth more, not less: it is what the executor runs. The
+stake is small and the gain grows with the machines, so having a source is a bet that does not
+lose, as long as making it explicit stays cheap (the first hypothesis below).
 
 ## The simple idea
 
