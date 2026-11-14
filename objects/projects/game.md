@@ -2,7 +2,7 @@
 type: project
 model: work@0.1
 question: What are we building for it?
-serves: [objects/goals/4.md, objects/goals/1.md]
+serves: objects/goals/4.md
 source: inferred
 lifecycle: active
 evidence: open
